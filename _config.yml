@@ -11,7 +11,7 @@ phone: Your phone number #(optional)
 website: Your website #(eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: jekyllrb
