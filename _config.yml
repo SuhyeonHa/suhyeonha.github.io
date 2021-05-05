@@ -68,12 +68,12 @@ content:
           - title:  Github page for the project
             icon: fab fa-github
             url: https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring
-        quote: >
-          Short overview of the project (optional)
+#         quote: >
+#           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           **Suhyeon Ha**, Guisik Kim and Junseok Kwon
-           8th Women in Computer Vision Workshop, 16th European Conference on Computer Vision Workshop (ECCVW)
-           **Oral Presentation (in the Top 3 of submissions)**
+           **Suhyeon Ha**, Guisik Kim and Junseok Kwon,
+           8th Women in Computer Vision Workshop, 16th European Conference on Computer Vision Workshop (ECCVW),
+           **Oral Presentation (in the Top 3 of submissions)**, Virtual, 2020
   - title: Experience
     layout: list
     content:
