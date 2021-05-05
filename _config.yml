@@ -63,7 +63,7 @@ content:
     content:
     ###########################################################################################################
       - layout: left
-        title: <img src="imgs/img_eccvw_2020.png" width="200" height="200"></img>
+        title: <img src="imgs/img_eccvw_2020.png" width="150" height="150"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -83,7 +83,7 @@ content:
            <a href="https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring">[code]</a>
      ###########################################################################################################
       - layout: left
-        title: <img src="imgs/bidirectional_cvprw_2019.png" width="200" height="200"></img>
+        title: <img src="imgs/bidirectional_cvprw_2019.png" width="200" height="150"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -127,7 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <img src="imgs/trajectory_electronics_letters_2020.png" width="200" height="200"></img>
+        title: <img src="imgs/trajectory_electronics_letters_2020.png" width="150" height="150"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -171,7 +171,7 @@ content:
 #         description: | # this will include new lines to allow paragraphs
 #           Description of qualification
     ##################################################################################################
-      - layout: left
+      - layout: top-middle
         title: ECE Paris
         sub_title: Fall Semester Exchange Program (Information Systems, Cybersecurity and Bigdata)
         caption: 2018/09 - 2019/02, Paris, France
@@ -180,7 +180,7 @@ content:
 #         description: | # this will include new lines to allow paragraphs
 #           Description of qualification
     ##################################################################################################
-      - layout: right
+      - layout: top-middle
         title: Chung-Ang University
         sub_title: B.S. Computer Science and Engineering
         caption: 2015/03 - 2019/09, Seoul, Korea
