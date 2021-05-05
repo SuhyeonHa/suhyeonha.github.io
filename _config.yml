@@ -73,9 +73,10 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           Attentive Style Transfer with Target Feature Palette
+           **Attentive Style Transfer with Target Feature Palette**
            
            **Suhyeon Ha**, Guisik Kim and Junseok Kwon,
+           
            8th Women in Computer Vision Workshop, 16th European Conference on Computer Vision Workshop (ECCVW),
            **Oral Presentation (in the Top 3 of submissions)**, Virtual, 2020
      ###########################################################################################################
@@ -90,9 +91,10 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           Bidirectional Deep Residual learning for Haze Removal
+           **Bidirectional Deep Residual learning for Haze Removal**
            
            Guisik Kim, Jinhee Park, **Suhyeon Ha** and Junseok Kwon,
+           
            Vision for all Seasons: Adverse Weather and Lighting Conditions,
            2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**),
            Long beach, USA, 2019
@@ -108,9 +110,10 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           Adaptive patch based convolutional neural network for robust dehazing
+           **Adaptive patch based convolutional neural network for robust dehazing**
            
            Guisik Kim, **Suhyeon Ha** and Junseok Kwon,
+           
            The 25th IEEE International Conference on Image Processing (**ICIP**),
            Athens, Greece, 2018
 # Publications (Journal) #########################################################################################       
@@ -128,9 +131,10 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           Visual Tracking Enhancement by Trajectory Simulation based on Hidden Semi-Markov Model
+           **Visual Tracking Enhancement by Trajectory Simulation based on Hidden Semi-Markov Model**
            
            **Suhyeon Ha** and Junseok Kwon,
+           
            **Electronics Letters**, vol. 56, no. 2, Jan, page 85-87, 2020
     ########################################################################################################### 
 #   - title: Experience
@@ -149,7 +153,8 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: Left
+    ##################################################################################################
+      - layout: Middle
         title: Chung-Ang University
         sub_title: M.S. Engineering (Computer Science and Engineering)
         caption: 2019/09 - present, Seoul, Korea
@@ -157,8 +162,8 @@ content:
 #           Short institution or course description (optional)
 #         description: | # this will include new lines to allow paragraphs
 #           Description of qualification
-     ##################################################################################################
-    layout: list
+    ##################################################################################################
+   - layout: list
     content:
       - layout: Left
         title: ECE Paris
@@ -168,10 +173,10 @@ content:
 #           Short institution or course description (optional)
 #         description: | # this will include new lines to allow paragraphs
 #           Description of qualification
-     ##################################################################################################
-    layout: list
+    ##################################################################################################
+   - layout: list
     content:
-      - layout: Left
+      - layout: Right
         title: Chung-Ang University
         sub_title: B.S. Computer Science and Engineering
         caption: 2015/03 - 2019/09, Seoul, Korea
