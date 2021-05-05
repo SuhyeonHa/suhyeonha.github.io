@@ -62,7 +62,6 @@ content:
     content:
       - layout: left
         title: <img src="imgs/img_eccvw_2020.png" width="100" height="100"></img>
-        <img src="imgs/img_eccvw_2020.png" width="100" height="100"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
         additional_links:
