@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   
 # Publications (Conference) ###################################################################################
 content:
-  - title: Publications (Confernece) # Title for the section
+  - title: Publications (Conference) # Title for the section
     layout: list # Type of content section (list/text)
     content:
     ###########################################################################################################
