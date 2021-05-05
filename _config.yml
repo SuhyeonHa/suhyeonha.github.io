@@ -151,7 +151,7 @@ content:
     content:
       - layout: Left
         title: Chung-Ang University
-        sub_title: M.S. Engineering: Computer Science and Engineering
+        sub_title: M.S. Engineering (Computer Science and Engineering)
         caption: 2019/09 - present, Seoul, Korea
 #         quote: >
 #           Short institution or course description (optional)
@@ -162,8 +162,8 @@ content:
     content:
       - layout: Left
         title: ECE Paris
-        sub_title: Fall Semester Exchange Program: Information Systems, Cybersecurity and Bigdata
-        caption: 2015/03 - 2019/09, Seoul, Korea
+        sub_title: Fall Semester Exchange Program (Information Systems, Cybersecurity and Bigdata)
+        caption: 2018/09 - 2019/02, Paris, France
 #         quote: >
 #           Short institution or course description (optional)
 #         description: | # this will include new lines to allow paragraphs
