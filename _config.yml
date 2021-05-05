@@ -48,7 +48,7 @@ instagram_username: hyeonixd
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: imgs/profile.png #(eg. images/profile.jpg)
+about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Suhyeon Ha :) 
   I'm currently pursuing the master's degree with the School of Computer Science and Engineering, Chung-Ang University,
@@ -71,7 +71,7 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           imgs/img_eccvw_2020.png
+           <img src="imgs/img_eccvw_2020.png" width="100" height="100"></img>
            **Suhyeon Ha**, Guisik Kim and Junseok Kwon,
            8th Women in Computer Vision Workshop, 16th European Conference on Computer Vision Workshop (ECCVW),
            **Oral Presentation (in the Top 3 of submissions)**, Virtual, 2020
