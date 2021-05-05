@@ -48,7 +48,7 @@ instagram_username: hyeonixd
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image #(eg. images/profile.jpg)
+about_profile_image: imgs/profile.png #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Suhyeon Ha :) 
   I'm currently pursuing the master's degree with the School of Computer Science and Engineering, Chung-Ang University,
@@ -61,7 +61,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Attentive Style Transfer with Target Feature Palette
+      imgs/img_eccvw_2020.png
+#         title: Attentive Style Transfer with Target Feature Palette
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
         additional_links:
