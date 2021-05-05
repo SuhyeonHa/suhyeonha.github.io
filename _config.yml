@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-      imgs/img_eccvw_2020.png
+      title:imgs/img_eccvw_2020.png
 #         title: Attentive Style Transfer with Target Feature Palette
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
