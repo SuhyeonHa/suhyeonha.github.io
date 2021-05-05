@@ -62,8 +62,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
     ###########################################################################################################
-      - layout: top-middle
-        title: <img src="imgs/img_eccvw_2020.png" width="150" height="150"></img>
+      - layout: left
+        title: <img src="imgs/img_eccvw_2020.png" width="200" height="200"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -103,7 +103,7 @@ content:
                       
            <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Kim_Bidirectional_Deep_Residual_learning_for_Haze_Removal_CVPRW_2019_paper.pdf">[paper]</a>
      ###########################################################################################################
-      - layout: top
+      - layout: left
         title: <img src="imgs/adaptive_icip_2018.png" width="200" height="100"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
@@ -127,7 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <img src="imgs/trajectory_electronics_letters_2020.png" width="150" height="150"></img>
+        title: <img src="imgs/trajectory_electronics_letters_2020.png" width="200" height="200"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
