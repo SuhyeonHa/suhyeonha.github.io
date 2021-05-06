@@ -157,42 +157,50 @@ content:
 #           Short description of the company (optional)
 #         description: | # this will include new lines to allow paragraphs
 #           Description of role
- # Education #########################################################################################   
-  - title: Education
-    layout: list
-    content:
-    ##################################################################################################
-      - layout: top-middle
-        title: Chung-Ang University
-        sub_title: M.S. Engineering (Computer Science and Engineering)
-        caption: 2019/09 - present, Seoul, Korea
-#         quote: >
-#           Short institution or course description (optional)
-#         description: | # this will include new lines to allow paragraphs
-#           Description of qualification
-    ##################################################################################################
-      - layout: top-middle
-        title: ECE Paris
-        sub_title: Fall Semester Exchange Program (Information Systems, Cybersecurity and Bigdata)
-        caption: 2018/09 - 2019/02, Paris, France
-#         quote: >
-#           Short institution or course description (optional)
-#         description: | # this will include new lines to allow paragraphs
-#           Description of qualification
-    ##################################################################################################
-      - layout: top-middle
-        title: Chung-Ang University
-        sub_title: B.S. Computer Science and Engineering
-        caption: 2015/03 - 2019/09, Seoul, Korea
-#         quote: >
-#           Short institution or course description (optional)
-#         description: | # this will include new lines to allow paragraphs
-#           Description of qualification
-     ##################################################################################################
+#  # Education #########################################################################################   
+#   - title: Education
+#     layout: list
+#     content:
+#     ##################################################################################################
+#       - layout: top-middle
+#         title: Chung-Ang University
+#         sub_title: M.S. Engineering (Computer Science and Engineering)
+#         caption: 2019/09 - present, Seoul, Korea
+# #         quote: >
+# #           Short institution or course description (optional)
+# #         description: | # this will include new lines to allow paragraphs
+# #           Description of qualification
+#     ##################################################################################################
+#       - layout: top-middle
+#         title: ECE Paris
+#         sub_title: Fall Semester Exchange Program (Information Systems, Cybersecurity and Bigdata)
+#         caption: 2018/09 - 2019/02, Paris, France
+# #         quote: >
+# #           Short institution or course description (optional)
+# #         description: | # this will include new lines to allow paragraphs
+# #           Description of qualification
+#     ##################################################################################################
+#       - layout: top-middle
+#         title: Chung-Ang University
+#         sub_title: B.S. Computer Science and Engineering
+#         caption: 2015/03 - 2019/09, Seoul, Korea
+# #         quote: >
+# #           Short institution or course description (optional)
+# #         description: | # this will include new lines to allow paragraphs
+# #           Description of qualification
+#      ##################################################################################################
   - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
       2018.02. 30th Image Processing and Image Understanding : Silver Prize
+      
+  - title: Professional Activities
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Journal Reviewer**
+      
+      IEIE Transactions on Smart Processing & Computing (IEIE SPC) 2019, 2020
+
 
 #   - title: A Little More About Me
 #     layout: text
