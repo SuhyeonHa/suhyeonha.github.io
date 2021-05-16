@@ -55,8 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   under the supervision of Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
   
   My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
-  
-  [<a href="https://bit.ly/3uR28NR">CV</a>]
+  <a href="https://bit.ly/3uR28NR">[CV]</a>
   
 # Publications (Conference) ###################################################################################
 content:
