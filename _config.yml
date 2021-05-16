@@ -54,7 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   I'm currently pursuing the master's degree with the School of Computer Science and Engineering, Chung-Ang University,
   under the supervision of Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
   
-  My research interests include <mark>Style Transfer</mark> and <mark>Colorization</mark> and <mark>Dehazing</mark>.
+  My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
+  
+  <a href="https://drive.google.com/file/d/1gD1-32jky1sAJ2EnZKmRnVvEBFQXjNOM/view?usp=sharing">[CV]</a>.
   
 # Publications (Conference) ###################################################################################
 content:
@@ -98,7 +100,7 @@ content:
            Guisik Kim, Jinhee Park, **Suhyeon Ha** and Junseok Kwon,
            
            Vision for all Seasons: Adverse Weather and Lighting Conditions,
-           2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**),
+           IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (**CVPRW**),
            Long beach, USA, 2019
                       
            <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Kim_Bidirectional_Deep_Residual_learning_for_Haze_Removal_CVPRW_2019_paper.pdf">[paper]</a>
