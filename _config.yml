@@ -1,7 +1,7 @@
 # Site
 repository: SuhyeonHa/suhyeonha.github.io
 # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/sea.ico
+favicon: imgs/sea.ico
 # (eg. images/favicon.ico)(optional)
 
 # Content configuration version
