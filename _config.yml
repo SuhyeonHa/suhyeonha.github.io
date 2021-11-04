@@ -51,8 +51,7 @@ instagram_username: hyeonixd
 # about_title: About Me (Use this to override about section title)
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Suhyeon Ha :) 
-  
+  Hello, I'm Suhyeon Ha :)   
   I received M.E in Application Software and B.S in Computer Science and Engineering, both at Chung-Ang University.  
   I was advised by Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
   
