@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   
 # My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
   
-  <a href="https://drive.google.com/file/d/1gD1-32jky1sAJ2EnZKmRnVvEBFQXjNOM/view?usp=sharing">[CV]</a>
+#  <a href="https://drive.google.com/file/d/1gD1-32jky1sAJ2EnZKmRnVvEBFQXjNOM/view?usp=sharing">[CV]</a>
   
 # Publications (Conference) ###################################################################################
 content:
@@ -130,26 +130,7 @@ content:
            
     ###########################################################################################################
   - title: Publications (Journal) # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: <img src="imgs/depth_mta_2021.png" width="200" height="200"></img>
-    #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-    #         link_text: Link Text
-    #         additional_links:
-    #           - title:  Github page for the project
-    #             icon: fab fa-github
-    #             url: https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring
-    #         quote: >
-    #           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-           **Style Transfer with Target Feature Palette and Attention Coloring**
-           **Suhyeon Ha** and Junseok Kwon,
 
-           Multimedia Tools and Application, Revision
-
-           <a href="https://digital-library.theiet.org/content/journals/10.1049/el.2019.2877">[paper]</a>
-    ###########################################################################################################
     layout: list # Type of content section (list/text)
     content:
       - layout: left
