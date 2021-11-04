@@ -9,7 +9,7 @@ version: 2
 # Personal info
 name: Suhyeon Ha
 title: M.S. Student
-# email: suhyeon.sean.ha@gmail.com
+email: suhyeon.sean.ha@gmail.com
 # phone: Your phone number #(optional)
 # website: Your website #(eg. https://google.com)(optional)
 
@@ -66,26 +66,6 @@ content:
   - title: Publications (Conference) # Title for the section
     layout: list # Type of content section (list/text)
     content:
-        ###########################################################################################################
-      - layout: left
-        title: <img src="imgs/depth_mta_2021.png" width="200" height="200"></img>
-#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: Link Text
-#         additional_links:
-#           - title:  Github page for the project
-#             icon: fab fa-github
-#             url: https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring
-#         quote: >
-#           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-           **Style Transfer with Target Feature Palette and Attention Coloring**
-           
-           **Suhyeon Ha**, Guisik Kim and Junseok Kwon,
-           
-           Multimedia Tools and Application, Revision
-           
-           <a href="https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring">[code]</a>
-     ###########################################################################################################
     ###########################################################################################################
       - layout: left
         title: <img src="imgs/img_eccvw_2020.png" width="200" height="200"></img>
@@ -147,8 +127,29 @@ content:
            Athens, Greece, 2018
                                  
            <a href="https://ieeexplore.ieee.org/document/8451252">[paper]</a>
-# Publications (Journal) #########################################################################################       
+           
+    ###########################################################################################################
   - title: Publications (Journal) # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: <img src="imgs/depth_mta_2021.png" width="200" height="200"></img>
+    #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #         link_text: Link Text
+    #         additional_links:
+    #           - title:  Github page for the project
+    #             icon: fab fa-github
+    #             url: https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring
+    #         quote: >
+    #           Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+           **Style Transfer with Target Feature Palette and Attention Coloring**
+           **Suhyeon Ha** and Junseok Kwon,
+
+           Multimedia Tools and Application, Revision
+
+           <a href="https://digital-library.theiet.org/content/journals/10.1049/el.2019.2877">[paper]</a>
+    ###########################################################################################################
     layout: list # Type of content section (list/text)
     content:
       - layout: left
