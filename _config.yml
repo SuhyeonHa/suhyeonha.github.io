@@ -9,7 +9,7 @@ version: 2
 # Personal info
 name: Suhyeon Ha
 title: M.S. Student
-email: tngus3752@gmail.com
+email: suhyeon.sean.ha@gmail.com
 # phone: Your phone number #(optional)
 # website: Your website #(eg. https://google.com)(optional)
 
@@ -51,10 +51,13 @@ instagram_username: hyeonixd
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Suhyeon Ha :) 
-  I'm currently pursuing the master's degree with the School of Computer Science and Engineering, Chung-Ang University,
-  under the supervision of Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
+  I received M.E in Application Software and B.S in Computer Science and Engineering, both at Chung-Ang University.
+  I was advised by Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
   
-  My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
+  My research interests are to understand artistic visual data (e.g. paintings, photographs, online comics), facilitate deep generative models, and allow users to recreate images (e.g. style transfer, colorization).
+  I'm interested in computer creativity vision-for-all.
+  
+# My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
   
   <a href="https://drive.google.com/file/d/1gD1-32jky1sAJ2EnZKmRnVvEBFQXjNOM/view?usp=sharing">[CV]</a>
   
@@ -63,6 +66,26 @@ content:
   - title: Publications (Conference) # Title for the section
     layout: list # Type of content section (list/text)
     content:
+        ###########################################################################################################
+      - layout: left
+        title: <img src="imgs/depth_mta_2021.png" width="200" height="200"></img>
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for the project
+#             icon: fab fa-github
+#             url: https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring
+#         quote: >
+#           Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+           **Style Transfer with Target Feature Palette and Attention Coloring**
+           
+           **Suhyeon Ha**, Guisik Kim and Junseok Kwon,
+           
+           Multimedia Tools and Application, Revision
+           
+           <a href="https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring">[code]</a>
+     ###########################################################################################################
     ###########################################################################################################
       - layout: left
         title: <img src="imgs/img_eccvw_2020.png" width="200" height="200"></img>
@@ -195,6 +218,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       2018.02. 30th Image Processing and Image Understanding : Silver Prize
+      2020.08. 16th European Conference on Computer Vision Workshop on Women in Computer Vision (ECCVW) : Top 3 papers
       
   - title: Professional Activities
     layout: text
