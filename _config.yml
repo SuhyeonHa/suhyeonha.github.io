@@ -51,13 +51,13 @@ instagram_username: hyeonixd
 # about_title: About Me (Use this to override about section title)
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Suhyeon Ha :) I received M.E in Application Software and B.S in Computer Science and Engineering, both at Chung-Ang University. I was advised by Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
+  Hello, I'm Suhyeon Ha :) I received M.E in Application Software and B.S in Computer Science and Engineering, both at Chung-Ang University. I was advised by Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>. I have been fortunate to intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.
   
   My research interests are to understand <mark>artistic visual data</mark> (e.g. paintings, photographs, online comics), facilitate <mark>deep generative models</mark>, and allow users to <mark>recreate</mark> images (e.g. style transfer, colorization).
   
-  I'm interested in <mark>computer creativity vision-for-all</mark>.
+  I'm interested in <mark>Machine Learning for Creativity</mark>.
   
-  <a href="https://drive.google.com/file/d/1mgUbkBIW5_FbFeP-TdzAhRhYBYOzvhs7/view?usp=sharing">[CV]</a>
+  <a href="https://drive.google.com/file/d/1Prs5wzhdJabBSWwmwTQxy3KoNik-w9yk/view?usp=sharing">[CV]</a>
   
 # My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
   
