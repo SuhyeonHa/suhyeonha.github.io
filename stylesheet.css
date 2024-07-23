@@ -1,57 +1,31 @@
-/* Merriweather font family */
-@font-face {
-  font-family: 'Merriweather';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Merriweather'), local('Merriweather-Regular'), url(https://fonts.gstatic.com/s/merriweather/v21/u-440qyriQwlOrhSvowK_l52xwNZWMf_.woff2) format('woff2');
-}
-@font-face {
-  font-family: 'Merriweather';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Merriweather Italic'), local('Merriweather-Italic'), url(https://fonts.gstatic.com/s/merriweather/v21/u-4m0qyriQwlOrhSvowK_l5-eRZJUCf2bg.woff2) format('woff2');
-}
-@font-face {
-  font-family: 'Merriweather';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(https://fonts.gstatic.com/s/merriweather/v21/u-4l0qyriQwlOrhSvowK_l5OeRJXwccA8_yT.woff2) format('woff2');
-}
-@font-face {
-  font-family: 'Merriweather';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url(https://fonts.gstatic.com/s/merriweather/v21/u-4n0qyriQwlOrhSvowK_l5-eRZJUBgX5d-D.woff2) format('woff2');
-}
-
 body,
 td,
 th,
 tr,
 p,
 a {
-  font-family: 'Merriweather', Verdana, Helvetica, sans-serif;
+  font-family: 'Helvetica', Arial, sans-serif;
   font-size: 14px;
 }
 
 strong {
-  font-family: 'Merriweather', Verdana, Helvetica, sans-serif;
+  font-family: 'Helvetica', Arial, sans-serif;
   font-size: 14px;
 }
 
 heading {
-  font-family: 'Merriweather', Verdana, Helvetica, sans-serif;
+  font-family: 'Helvetica', Arial, sans-serif;
   font-size: 22px;
 }
 
 papertitle {
-  font-family: 'Merriweather', Verdana, Helvetica, sans-serif;
+  font-family: 'Helvetica', Arial, sans-serif;
   font-size: 14px;
   font-weight: 700;
 }
 
 name {
-  font-family: 'Merriweather', Verdana, Helvetica, sans-serif;
+  font-family: 'Helvetica', Arial, sans-serif;
   font-size: 32px;
 }
 
@@ -84,4 +58,9 @@ a:hover {
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition:
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
