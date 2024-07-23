@@ -1,3 +1,60 @@
+/* Roboto font family */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5WZLCzYlKw.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Italic'), local('Roboto-Italic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xIIzc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc4Cs.woff2) format('woff2');
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+strong {
+  font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+heading {
+  font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+  font-size: 22px;
+}
+
+papertitle {
+  font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+name {
+  font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+  font-size: 32px;
+}
+
 a {
   color: #1772d0;
   text-decoration: none;
@@ -7,37 +64,6 @@ a:focus,
 a:hover {
   color: #f09228;
   text-decoration: none;
-}
-
-body,
-td,
-th,
-tr,
-p,
-a {
-  font-family: 'Courier', monospace;
-  font-size: 14px;
-}
-
-strong {
-  font-family: 'Courier', monospace;
-  font-size: 14px;
-}
-
-heading {
-  font-family: 'Courier', monospace;
-  font-size: 22px;
-}
-
-papertitle {
-  font-family: 'Courier', monospace;
-  font-size: 14px;
-  font-weight: 700;
-}
-
-name {
-  font-family: 'Courier', monospace;
-  font-size: 32px;
 }
 
 .one {
