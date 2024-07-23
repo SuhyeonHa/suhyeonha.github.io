@@ -1,31 +1,34 @@
+/* Import Montserrat from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 body,
 td,
 th,
 tr,
 p,
 a {
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
 
 strong {
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
 
 heading {
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 22px;
 }
 
 papertitle {
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-weight: 700;
 }
 
 name {
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 32px;
 }
 
@@ -51,16 +54,4 @@ a:hover {
   height: 160px;
   position: absolute;
   transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
-}
-
-.fade {
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
-}
-
-span.highlight {
-  background-color: #ffffd0;
-}
+  -moz-transition: opacity .2s ease-in
