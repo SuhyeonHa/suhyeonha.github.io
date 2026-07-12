@@ -55,3 +55,8 @@ a:hover {
   position: absolute;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in
+
+}
+
+/* Size publication thumbnails by height, capped to the RoME teaser height (exclude profile photo) */
+td img:not(.hoverZoomLink) { width: auto; height: auto; max-height: 120px; max-width: 100%; display: block; margin-left: auto; margin-right: auto; }
